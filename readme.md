@@ -1,4 +1,4 @@
-# Web Opdracht
+# Web
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/TheoKoffem/gitweb)
